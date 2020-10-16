@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Faris and I am a Full Stack Web Developer 👋 👨‍💻
 
 [![Faris' github stats](https://github-readme-stats.vercel.app/api?username=farisaziz12)](https://github.com/anuraghazra/github-readme-stats)
 
