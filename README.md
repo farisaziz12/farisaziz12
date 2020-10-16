@@ -4,7 +4,7 @@
 
 ### Featured Repositories 👾
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![WOD-WITH-FARIS Card](https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod-with-faris-frontend)](https://github.com/farisaziz12/wod_with_faris_frontend)
 
 <!--
 **farisaziz12/farisaziz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
