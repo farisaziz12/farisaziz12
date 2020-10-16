@@ -1,19 +1,14 @@
 ### Hi there, my name is Faris and I am a Full Stack Web Developer 👋 👨‍💻
 
 
-### Github Stats & Top Languages 📈
-
-
-<a href="https://github.com/farisaziz12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisaziz12&theme=dark&layout=compact" />
-</a>
+### Github Stats 📈
 
 <a href="https://github.com/farisaziz12">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=farisaziz12&count_private=true&show_icons=true&theme=dark" />
 </a>
 
 
-### Featured Repositories 👾
+### Featured Repositories & Top Languages 👾
 
 <a href="https://github.com/farisaziz12/wod_with_faris_frontend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend&theme=dark" />
@@ -26,6 +21,11 @@
 <a href="https://github.com/farisaziz12/sound_wave">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=sound_wave&theme=dark" />
 </a>
+
+<a href="https://github.com/farisaziz12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisaziz12&theme=dark&layout=compact" />
+</a>
+
 
 <!--
 **farisaziz12/farisaziz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
