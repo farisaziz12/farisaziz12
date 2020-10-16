@@ -6,6 +6,10 @@
 
 [![WOD-WITH-FARIS Card](https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend&theme=dark)](https://github.com/farisaziz12/wod_with_faris_frontend)
 
+[![FILM PICK Card](https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=film_pick_skill&theme=dark)](https://github.com/farisaziz12/film_pick_skill)
+
+[![Sound Wave Card](https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=sound_wave&theme=dark)](https://github.com/farisaziz12/sound_wave)
+
 <!--
 **farisaziz12/farisaziz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
