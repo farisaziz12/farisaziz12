@@ -12,7 +12,7 @@
 
 ### Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisaziz12)](https://github.com/farisaziz12)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=farisaziz12&theme=dark)](https://github.com/farisaziz12)
 
 <!--
 **farisaziz12/farisaziz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
