@@ -26,16 +26,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=film_pick_skill&theme=dark" />
 </a>
 
+
+<!--
+
 ### Technologies & Tools 🛠
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-
 
 
 ### WakaTime Stats ⏳
 
 [![Faris' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farisaziz12&theme=dark)](https://github.com/farisaziz12)
 
+-->
 
 <!--
 **farisaziz12/farisaziz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
