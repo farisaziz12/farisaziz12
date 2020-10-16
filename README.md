@@ -10,20 +10,20 @@
 
 ### Featured Repositories & Top Languages 👾
 
-<a href="https://github.com/farisaziz12/wod_with_faris_frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend&theme=dark" />
-</a>
-
-<a href="https://github.com/farisaziz12/film_pick_skill">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=film_pick_skill&theme=dark" />
-</a>
-
 <a href="https://github.com/farisaziz12/sound_wave">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=sound_wave&theme=dark" />
 </a>
 
 <a href="https://github.com/farisaziz12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisaziz12&theme=dark&layout=compact" />
+</a>
+
+<a href="https://github.com/farisaziz12/wod_with_faris_frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend&theme=dark" />
+</a>
+
+<a href="https://github.com/farisaziz12/film_pick_skill">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=film_pick_skill&theme=dark" />
 </a>
 
 
