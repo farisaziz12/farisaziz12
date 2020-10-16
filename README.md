@@ -3,13 +3,15 @@
 
 ### Github Stats & Top Languages 📈
 
-<a href="https://github.com/farisaziz12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farisaziz12&count_private=true&show_icons=true&theme=dark" />
-</a>
 
 <a href="https://github.com/farisaziz12">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisaziz12&theme=dark" />
 </a>
+
+<a href="https://github.com/farisaziz12">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farisaziz12&count_private=true&show_icons=true&theme=dark" />
+</a>
+
 
 ### Featured Repositories 👾
 
