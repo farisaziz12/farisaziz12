@@ -28,7 +28,7 @@
 
 ### Technologies & Tools 🛠
 
-![](https://img.shields.io/badge/EDITOR-Visual_Studio_Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 
 
