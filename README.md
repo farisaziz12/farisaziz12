@@ -1,6 +1,6 @@
 ### Hi there, my name is Faris and I am a Full Stack Web Developer 👋 👨‍💻
 
-[![Faris' github stats](https://github-readme-stats.vercel.app/api?username=farisaziz12&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Faris' github stats](https://github-readme-stats.vercel.app/api?username=farisaziz12&count_private=true)]()
 
 <!--
 **farisaziz12/farisaziz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
