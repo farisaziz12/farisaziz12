@@ -4,7 +4,7 @@
 
 ### Featured Repositories 👾
 
-[![WOD-WITH-FARIS Card](https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend)](https://github.com/farisaziz12/wod_with_faris_frontend)
+[![WOD-WITH-FARIS Card](https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend&theme=dark)](https://github.com/farisaziz12/wod_with_faris_frontend)
 
 <!--
 **farisaziz12/farisaziz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
