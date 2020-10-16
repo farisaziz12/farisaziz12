@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/farisaziz12">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=farisaziz12&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisaziz12&theme=dark" />
 </a>
 
 ### Featured Repositories 👾
