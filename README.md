@@ -4,7 +4,9 @@
 
 ### Featured Repositories 👾
 
-[![WOD-WITH-FARIS Card](https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend&theme=dark)](https://github.com/farisaziz12/wod_with_faris_frontend)
+<a href="https://github.com/farisaziz12/wod_with_faris_frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend&theme=dark" />
+</a>
 
 [![FILM PICK Card](https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=film_pick_skill&theme=dark)](https://github.com/farisaziz12/film_pick_skill)
 
