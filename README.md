@@ -26,6 +26,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=film_pick_skill&theme=dark" />
 </a>
 
+### Technologies & Tools 🛠
+
+
+![](https://img.shields.io/badge/IDE-Visual Studio Code-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ### WakaTime Stats ⏳
 
