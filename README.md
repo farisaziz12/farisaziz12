@@ -8,9 +8,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend&theme=dark" />
 </a>
 
-[![FILM PICK Card](https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=film_pick_skill&theme=dark)](https://github.com/farisaziz12/film_pick_skill)
+<a href="https://github.com/farisaziz12/film_pick_skill">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=film_pick_skill&theme=dark" />
+</a>
 
-[![Sound Wave Card](https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=sound_wave&theme=dark)](https://github.com/farisaziz12/sound_wave)
+<a href="https://github.com/farisaziz12/sound_wave">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=sound_wave&theme=dark" />
+</a>
 
 ### Top Languages
 
