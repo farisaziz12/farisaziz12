@@ -50,7 +50,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><img width="10%" src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/rx.svg"></code>
+<code><div width="10%" style="background-color: black;"><img src="https://rxjs.dev/assets/images/logos/logo.png"></div></code>
 
 <!--
 
