@@ -27,11 +27,14 @@
 </a>
 
 
-<!--
 
 ### Technologies & Tools 🛠
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+
+
+<!--
 
 
 ### WakaTime Stats ⏳
