@@ -9,19 +9,17 @@
 
 ### Github Stats 📈
 
-<a href="https://github.com/farisaziz12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farisaziz12&count_private=true&show_icons=true&theme=dark" />
-</a>
+<p align = "center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farisaziz12&count_private=true&show_icons=true&theme=dark&line_height=40" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisaziz12&theme=dark" />
+</p>
+
 
 
 ### Featured Repositories & Top Languages 👾
 
 <a href="https://github.com/farisaziz12/sound_wave">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=sound_wave&theme=dark" />
-</a>
-
-<a href="https://github.com/farisaziz12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisaziz12&theme=dark&layout=compact" />
 </a>
 
 <a href="https://github.com/farisaziz12/wod_with_faris_frontend">
