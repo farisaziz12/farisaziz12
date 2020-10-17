@@ -7,6 +7,8 @@
 - 📫 How to reach me: **`Email:`**`farisaziz12@gmail.com`
 - ⚡ Fun fact: In my spare time i'm a CrossFit L-2 Trainer & Athlete **@** [`Antidote Gym`](https://antidote-gym.ch/faris-aziz/) 🏋️‍♂️
 
+![Faris' Profile Views](https://komarev.com/ghpvc/?username=farisaziz12&color=green)
+
 ### Github Stats 📈
 
 <p>
