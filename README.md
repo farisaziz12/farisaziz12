@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything, I am happy to help!
 - 📫 How to reach me: **`Email:`**`farisaziz12@gmail.com`
-- ⚡ Fun fact: In my spare time i'm a CrossFit L-2 Trainer & Athlete 🏋️‍♂️ **@** [`Antidote Gym`](https://antidote-gym.ch/faris-aziz/)
+- ⚡ Fun fact: In my spare time i'm a CrossFit L-2 Trainer & Athlete **@** [`Antidote Gym`](https://antidote-gym.ch/faris-aziz/) 🏋️‍♂️
 
 ### Github Stats 📈
 
