@@ -1,5 +1,13 @@
 ### Hi there, my name is Faris and I am a Full Stack Web Developer 👋 👨‍💻
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning **`Roku`** & **`Brightscript`** <img width="5%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.roku.com%2Fblog%2Fwp-content%2Fuploads%2F2014%2F01%2FRokuTV_logo_purple1.png&f=1&nofb=1" >
+- 👯 I’m looking to collaborate on anything!
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: **`Email:`**`farisaziz12@gmail.com`
+- ⚡ Fun fact: In my spare time i'm a CrossFit L-2 Trainer & Athlete 🏋️‍♂️ **@** [`Antidote Gym`](https://antidote-gym.ch/faris-aziz/)
+
 ### Github Stats 📈
 
 <a href="https://github.com/farisaziz12">
