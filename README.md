@@ -29,7 +29,7 @@
 </a>
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=film_pick_skill&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_backend&theme=dark" />
 </a>
 
 ### WakaTime Stats ⏳
