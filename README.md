@@ -26,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend&theme=dark" />
 </a>
 
-<a href="https://github.com/farisaziz12/film_pick_skill">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=film_pick_skill&theme=dark" />
 </a>
 
