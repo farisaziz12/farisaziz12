@@ -1,6 +1,5 @@
 ### Hi there, my name is Faris and I am a Full Stack Web Developer 👋 👨‍💻
 
-
 ### Github Stats 📈
 
 <a href="https://github.com/farisaziz12">
@@ -50,7 +49,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
-<code><div width="10%" style="background-color: black;"><img src="https://rxjs.dev/assets/images/logos/logo.png"></div></code>
+<code><img width="10%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Ffit%2Ft%2F1600%2F480%2F1*gD37OB2-PtMqZdk3X1YnEQ.png&f=1&nofb=1"></code>
 
 <!--
 
