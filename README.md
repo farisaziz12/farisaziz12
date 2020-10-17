@@ -28,8 +28,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend&theme=dark" />
 </a>
 
-<a>
+<a href="https://github.com/farisaziz12/wod_with_faris_backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_backend&theme=dark" />
+</a>
+
+<a href="https://github.com/farisaziz12/throwdown_site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=throwdown_site&theme=dark" />
 </a>
 
 ### WakaTime Stats ⏳
