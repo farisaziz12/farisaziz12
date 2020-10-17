@@ -39,7 +39,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/roku/roku-ar21.svg"></code>
-<code><img width="10%" src="https://commons.wikipedia.org/wiki/File:Amazon_Alexa_logo.svg"></code>
+<code><img width="10%" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fgsmorigin.com%2Fwp-content%2Fuploads%2F2017%2F07%2Famazon-alexa-logo.png&f=1&nofb=1"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://github.com/detain/svg-logos/blob/master/svg/rails-1.svg"></code>
 <code><img width="10%" src="https://github.com/gilbarbara/logos/blob/master/logos/nextjs.svg"></code>
