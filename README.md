@@ -51,14 +51,11 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
 <code><img width="10%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-images-1.medium.com%2Ffit%2Ft%2F1600%2F480%2F1*gD37OB2-PtMqZdk3X1YnEQ.png&f=1&nofb=1"></code>
 
-<!--
-
-
 ### WakaTime Stats ⏳
 
 [![Faris' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farisaziz12&theme=dark)](https://github.com/farisaziz12)
 
--->
+
 
 <!--
 **farisaziz12/farisaziz12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
