@@ -36,9 +36,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=throwdown_site&theme=dark" />
 </a>
 
+<!--
+
 ### WakaTime Stats ⏳
 
 [![Faris' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=farisaziz12&theme=dark)](https://github.com/farisaziz12)
+
+-->
 
 ### Technologies & Tools 🛠
 
