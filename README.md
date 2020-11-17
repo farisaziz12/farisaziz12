@@ -18,7 +18,7 @@
 
 
 
-### Featured Repositories & Top Languages 👾
+### Featured Repositories ⭐️
 
 <a href="https://github.com/farisaziz12/sound_wave">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=sound_wave&theme=dark" />
