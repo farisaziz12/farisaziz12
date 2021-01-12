@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning **`Roku`** & **`Brightscript`** <img width="7%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.roku.com%2Fblog%2Fwp-content%2Fuploads%2F2014%2F01%2FRokuTV_logo_purple1.png&f=1&nofb=1" >
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything, I am happy to help!
+<!--
 - 📫 How to reach me: **`Email:`**`farisaziz12@gmail.com`
+-->
 - ⚡ Fun fact: In my spare time i'm a CrossFit L-2 Trainer & Athlete **@** [`Antidote Gym`](https://antidote-gym.ch/faris-aziz/) 🏋️‍♂️
 
 ![Faris' Profile Views](https://komarev.com/ghpvc/?username=farisaziz12&color=green)
