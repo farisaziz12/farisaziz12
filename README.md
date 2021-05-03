@@ -35,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_backend&theme=dark" />
 </a>
 
-<a href="https://github.com/farisaziz12/throwdown_site">
+<a href="https://github.com/farisaziz12/faziz_training">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=faziz_training&theme=dark" />
 </a>
 
