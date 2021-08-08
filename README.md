@@ -23,16 +23,16 @@
 
 ### Featured Repositories ⭐️
 
+<a href="https://github.com/farisaziz12/tv-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=tv-app&theme=dark" />
+</a>
+
 <a href="https://github.com/farisaziz12/sound_wave">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=sound_wave&theme=dark" />
 </a>
 
-<a href="https://github.com/farisaziz12/wod_with_faris_frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_frontend&theme=dark" />
-</a>
-
-<a href="https://github.com/farisaziz12/wod_with_faris_backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=wod_with_faris_backend&theme=dark" />
+<a href="https://github.com/farisaziz12/portfolio-website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=portfolio-website&theme=dark" />
 </a>
 
 <a href="https://github.com/farisaziz12/faziz_training">
