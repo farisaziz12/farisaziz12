@@ -3,8 +3,11 @@
 - 🔭 I’m currently working on 
 -->
 - 🌱 I’m currently learning **`Bash`**
+
+<!--
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything, I am happy to help!
+-->
 <!--
 - 📫 How to reach me: **`Email:`**`farisaziz12@gmail.com`
 -->
