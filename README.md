@@ -2,18 +2,19 @@
 <!--
 - 🔭 I’m currently working on 
 -->
-- 🌱 I’m currently learning **`Bash`**
-
-<!--
+- ⚡ I’m currently working heavily with ReactJS, NextJS, JavaScript & TypeScript
+- 📺 Previously worked in the Connected TV space, currently building [Paytrix](https://paytrix.io/) in the Fintech space as a Senior Frontend Engineer 🤑
 - 👯 I’m looking to collaborate on anything!
-- 💬 Ask me about anything, I am happy to help!
--->
+- 💬 Ask me about anything, I am happy to help! I'm also on [MentorCruise](https://mentorcruise.com/mentor/farisaziz/)
+
 <!--
 - 📫 How to reach me: **`Email:`**`farisaziz12@gmail.com`
 -->
-- ⚡ Fun fact: In my spare time i'm a CrossFit L-2 Trainer & Athlete **@** [`Antidote Gym`](https://antidote-gym.ch/faris-aziz/) 🏋️‍♂️
+<!-- - ⚡ Fun fact: In my spare time i'm a CrossFit L-2 Trainer & Athlete **@** [`Antidote Gym`](https://antidote-gym.ch/faris-aziz/) 🏋️‍♂️ -->
 
 ![Faris' Profile Views](https://komarev.com/ghpvc/?username=farisaziz12&color=green)
+
+<a href="https://mentorcruise.com/mentor/farisaziz/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-booking-badge.svg" width="240" alt="MentorCruise"> </a>
 
  <a href="https://sourcerer.io/farisaziz12"> <h1>Github Stats 📈</h1></a>
 
