@@ -31,16 +31,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=tv-app&theme=dark" />
 </a>
 
-<a href="https://github.com/farisaziz12/sound_wave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=sound_wave&theme=dark" />
-</a>
+<a href="https://github.com/raycast/extensions/tree/main/extensions/stripe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=raycast&repo=extensions&theme=dark"
 
 <a href="https://github.com/farisaziz12/portfolio-website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=portfolio-website&theme=dark" />
-</a>
-
-<a href="https://github.com/farisaziz12/faziz_training">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=farisaziz12&repo=faziz_training&theme=dark" />
 </a>
 
 <!--
@@ -54,8 +49,7 @@
 ### Technologies & Tools 🛠
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
 <code><img width="10%" src="https://github.com/gilbarbara/logos/blob/master/logos/nextjs.svg"></code>
@@ -63,7 +57,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://github.com/detain/svg-logos/blob/master/svg/rails-1.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
