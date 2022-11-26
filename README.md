@@ -5,7 +5,7 @@
 - ⚡ I’m currently working heavily with ReactJS, NextJS, JavaScript & TypeScript
 - 📺 Previously worked in the Connected TV space, currently building [Paytrix](https://paytrix.io/) in the Fintech space as a Senior Frontend Engineer 🤑
 - 👯 I’m looking to collaborate on anything!
-- 💬 Ask me about anything, I am happy to help! I'm also on [MentorCruise](https://mentorcruise.com/mentor/farisaziz/)
+- 💬 Ask me about anything in the world of web, I am happy to help! I'm also on [MentorCruise](https://mentorcruise.com/mentor/farisaziz/)
 
 <!--
 - 📫 How to reach me: **`Email:`**`farisaziz12@gmail.com`
