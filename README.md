@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on 
 -->
 - ⚡ I’m currently working heavily with ReactJS, NextJS, JavaScript & TypeScript
-- 📺 Previously worked in the Connected TV space, currently building [Paytrix](https://paytrix.io/) in Fintech as a Frontend SME & Engineering Manager 🤑
+- 📺 Previously worked in the Connected TV space, currently building [Navro](https://navro.com/) in Fintech as a Frontend SME & Engineering Manager 🤑
 - 👯 I’m looking to collaborate on anything!
 - 💬 Ask me about anything in the world of web, I am happy to help! I'm also on [MentorCruise](https://mentorcruise.com/mentor/farisaziz/)
 
