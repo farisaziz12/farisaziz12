@@ -1,13 +1,10 @@
 # 💫 About Me:
 
-### Hi there, my name is Faris and I am a Full Stack Web Developer 👋 👨‍💻
-<!--
-- 🔭 I’m currently working on 
--->
-- ⚡ I’m currently working heavily with ReactJS, NextJS, JavaScript & TypeScript
-- 📺 Previously worked in the Connected TV space, currently building [Navro](https://navro.com/) in Fintech as a Frontend SME & Engineering Manager 🤑
-- 👯 I’m looking to collaborate on anything!
-- 💬 Ask me about anything in the world of web, I am happy to help! I'm also on [MentorCruise](https://mentorcruise.com/mentor/farisaziz/)
+### Hi there, my name is Faris and I am a Frontend Software Engineer 👋 👨‍💻
+
+I’m Faris Aziz, a Staff Frontend Engineer at Smallpdf and founder of [ZurichJS](https://zurichjs.com/). Previously, I served as an Engineering Manager at [Navro](https://navro.com/) (formerly Paytrix). I specialize in building scalable, maintainable frontend systems using Next.js, React, TypeScript, and Node.js. My experience spans fintech, connected TV, and fitness industries, contributing to companies like Fiit, Discovery, GCN and Eurosport.
+
+I also mentor engineers through MentorCruise, focusing on technical skills, career progression, and interview preparation.
 
 
 <a href="https://mentorcruise.com/mentor/farisaziz/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-booking-badge.svg" width="240" alt="MentorCruise"> </a>
